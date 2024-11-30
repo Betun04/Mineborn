@@ -1,0 +1,4 @@
+name: Mineborn
+version: '1.0-SNAPSHOT'
+main: me.betun.mineborn.Mineborn
+api-version: '1.19'
